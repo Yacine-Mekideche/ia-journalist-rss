@@ -1,0 +1,8 @@
+# Fichiers d'environnement
+.env
+.env.*
+
+# Dossier de l'environnement virtuel
+venv/
+VENV/
+.venv/
