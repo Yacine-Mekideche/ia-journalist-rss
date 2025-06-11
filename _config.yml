@@ -1,0 +1,7 @@
+title: IAcine Live News Agent 📰
+description: Real-time AI-powered journalist that summarizes RSS feeds and generates PDF reports using GPT and Streamlit.
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+markdown: kramdown
+show_downloads: true
